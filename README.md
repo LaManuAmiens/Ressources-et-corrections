@@ -17,7 +17,7 @@ Linux est un OS, crée par Linus Thorval, qui possède différentes distribution
 - Ubuntu
 - ...
 
-Nous travaillerons sur Ubuntu, version 18.04 LTS durant la formation. Une mise à jour vers 18.10 sera disponible pour ???. LTS indique une version stable et maintenue, ce qui est conseillé pour un environnement de travail sain.
+Nous travaillerons sur Ubuntu, version 18.04 LTS durant la formation. Une mise à jour vers 18.10 sera disponible pour octobre 2018. LTS indique une version stable et maintenue, ce qui est conseillé pour un environnement de travail sain.
 
 ----
 
