@@ -39,6 +39,8 @@ touch "nom_du_fichier" : crée un fichier avec le nom indiqué
 
 sudo su : permet de passer en super utilisateur
 
+sudo -s : permet également de passer en super utilisateur
+
 ------
 
 mv "fichier_a_deplacer" "destination_du fichier" : déplace le fichier dans le répertoire ciblé
