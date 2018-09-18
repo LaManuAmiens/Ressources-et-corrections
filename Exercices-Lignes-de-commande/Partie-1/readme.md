@@ -1,6 +1,6 @@
 Exercice 1
 ------
-### man ls
+### man ls
 
 Exercice 2
 ------
