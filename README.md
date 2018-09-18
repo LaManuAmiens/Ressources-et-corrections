@@ -32,8 +32,6 @@ Un éditeur de texte est un programme qui sert à... éditer des textes (c'est-�
 - Brackets
 - Emacs
 
-(Source : https://www.tuteurs.ens.fr/unix/editeurs/)
-
 ----
 
 Integrated Development Environment (en français « environnement de développement »), est un logiciel qui rassemble des outils permettant de développer d’autres logiciels tels que des applications mobiles, des logiciels pour ordinateur ou consoles de jeux, des sites web, etc. ainsi que de réaliser des librairies ou des frameworks, c’est-à-dire des morceaux de code qui pourront être sauvegardés et réutilisés dans d’autres programmes.
@@ -51,4 +49,8 @@ Il existe de nombreux IDE. Certains permettent de développer pour un système d
 - Visual Studio
 - Xcode
 
-(Source : https://www.mobizel.com/definition-cest-quoi-un-ide/)
+----
+
+Sources :
+- https://www.tuteurs.ens.fr/unix/editeurs/
+- https://www.mobizel.com/definition-cest-quoi-un-ide/
