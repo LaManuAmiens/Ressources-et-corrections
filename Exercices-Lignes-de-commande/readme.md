@@ -37,16 +37,18 @@ touch "nom_du_fichier" : crée un fichier avec le nom indiqué
 
 ------
 
-sudo su : 
+sudo su : permet de passer en super utilisateur
 
 ------
 
-mv "fichier_a_deplacer" "destination_du fichier" : 
+mv "fichier_a_deplacer" "destination_du fichier" : déplace le fichier dans le répertoire ciblé
+
+mv -rf "dossier_a_deplacer" "destination_du fichier" : déplace le dossier dans le répertoire ciblé
 
 ------
 
-rm "nom_du_fichier" :
+rm "nom_du_fichier" : supprime le fichier ciblé
 
-rm -rf "nom_du_dossier" :
+rm -rf "nom_du_dossier" : supprime le dossier ciblé
 
 !!! Suppresion définitive et iréversible, tout est supprimé dans le dossier ciblé !!!
