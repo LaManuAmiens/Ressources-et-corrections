@@ -1,6 +1,6 @@
 Exercice 1
 ------
-'' mkdir ../exerciceNano ''
+'mkdir ../exerciceNano'
 
 Exercice 2
 ------
