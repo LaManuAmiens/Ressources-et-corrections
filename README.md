@@ -19,4 +19,18 @@ Nous travaillerons sur Ubuntu, version 18.04 LTS durant la formation. Une mise �
 
 ----
 
-Suite à venir rapidement ;)
+Un éditeur de texte est un logiciel permettant l'édition de fichiers textes dans toutes les extensions possbiles (html, css, js...). Il en existe de nombreux, voici quelques exemples :
+- Word
+- Bloc-notes
+- Notepad++
+- nano
+- gedit
+- vim 
+- komodo edit
+- atom
+- Sublime Text
+- brackets
+- emacs
+
+----
+
