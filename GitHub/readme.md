@@ -55,7 +55,7 @@ git push
 
 ----
 
-### Autres commandes à retenir :
+# Autres commandes à retenir :
 
 Documentation officielle : https://doc.ubuntu-fr.org/git
 
