@@ -46,5 +46,7 @@ mv "fichier_a_deplacer" "destination_du fichier" :
 ------
 
 rm "nom_du_fichier" :
+
 rm -rf "nom_du_dossier" :
+
 !!! Suppresion définitive et iréversible, tout est supprimé dans le dossier ciblé !!!
