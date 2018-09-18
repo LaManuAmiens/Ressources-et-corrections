@@ -25,7 +25,7 @@ Exercice 4
 
 #### ajouter 
 
-`<title>Hello</title>` 
+`<title>Hello world</title>` 
 
 #### dans le header
 
