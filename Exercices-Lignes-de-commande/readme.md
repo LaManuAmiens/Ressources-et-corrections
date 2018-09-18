@@ -5,35 +5,35 @@ Lien de la documentation officielle : https://doc.ubuntu-fr.org/tutoriel/console
 
 ------
 
-man "nom_de_la_commande" : 
+man "nom_de_la_commande" : affiche le manuel lié à la commande et toutes les options possibles
 
 ------
 
-ls :
+ls : donne la liste des fichiers et dossiers
 
-ls -a :
+ls -a : donne la liste des fichiers et dossiers ainsi que les fichiers/dossiers cachés
 
-ls -l :
+ls -l : donne la liste détaillée des fichiers et dossiers du répertoire courant
 
-ls -al :
-
-------
-
-pwd
+ls -al : donne la liste détaillée des fichiers et dossiers ainsi que les fichiers/dossiers cachés
 
 ------
 
-cd :
-
-cd .. :
-
-cd "nom_du_dossier" :
+pwd : affiche le répertoire dans lequel on se trouve
 
 ------
 
-mkdir :
+cd : retourne à la racine de la console 
 
-touch :
+cd "nom_du_dossier" : permet de se déplacer dans le répertoire ciblé
+
+cd .. : permet de remonter au répertoire au dessus
+
+------
+
+mkdir "nom_du_dossier" : crée un dossier avec le nom indiqué
+
+touch "nom_du_fichier" : crée un fichier avec le nom indiqué
 
 ------
 
