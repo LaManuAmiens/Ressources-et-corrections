@@ -10,8 +10,11 @@ man "nom_de_la_commande" :
 ------
 
 ls :
+
 ls -a :
+
 ls -l :
+
 ls -al :
 
 ------
@@ -21,12 +24,15 @@ pwd
 ------
 
 cd :
+
 cd .. :
+
 cd "nom_du_dossier" :
 
 ------
 
 mkdir :
+
 touch :
 
 ------
