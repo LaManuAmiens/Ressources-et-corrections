@@ -17,7 +17,7 @@ Exercice 4
 Exercice 5
 ------
 ### nano index.html
-### copier et enregistrer/quitter
+### Copier le code et enregistrer puis quitter
 
 Exercice 6
 ------
