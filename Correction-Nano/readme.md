@@ -6,9 +6,10 @@ Exercice 1
 Exercice 2
 ------
 
-`cd ../exerciceNano`
-
-`touch index.html`
+```
+cd ../exerciceNano
+touch index.html
+```
 
 Exercice 3
 ------
@@ -30,7 +31,7 @@ Exercice 4
 
 `<head></head>`
 
-#### le résultat donne :
+#### pour que ça donne :
 
 ```<!DOCTYpE html>
 <html>
@@ -51,11 +52,11 @@ Exercice 5
 
 #### ajouter 
 
-`<h2>1</h2>`
-
-`<h2>2</h2>`
-
-`<h2>3</h2>` 
+```
+<h2>1</h2>
+<h2>2</h2>
+<h2>3</h2>
+``` 
 
 #### en dessous de 
 
@@ -66,11 +67,11 @@ Exercice 6
 
 `nano index.html`
 
-#### CTRL + Alt Gr + \
+#### CTRL + w
 
-#### on tape h2
+#### taper h2
 
-#### on tape 'p
+#### taper p
 
 #### taper T
 
@@ -78,4 +79,4 @@ Exercice 6
 
 #### taper o
 
-#### taper y
+#### taper y
