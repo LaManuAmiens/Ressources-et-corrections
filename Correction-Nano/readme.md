@@ -32,7 +32,7 @@ Exercice 4
 
 #### le résultat donne :
 
-`<!DOCTYpE html>
+```<!DOCTYpE html>
 <html>
         <head>
                 <title>Hello world</title>
@@ -44,7 +44,7 @@ Exercice 4
                 <p>3</p>
         </body>
 </html>
-`
+```
 
 Exercice 5
 ------
