@@ -52,3 +52,13 @@ git add "le_fichier_ajouté"
 git commit -m "commentaire_sur_l'ajout"
 git push
 ```
+
+----
+
+### Autres commandes à retenir :
+
+Documentation officielle : https://doc.ubuntu-fr.org/git
+
+`git status` : permet de savoir tout ce qui n’a pas encore été commit ou push dans le dossier
+`git pull` : permet de mettre à jour le dossier dans lequel on est
+`git stash` : permet d'effacer toutes les modifications et de revenir au dernier commit
