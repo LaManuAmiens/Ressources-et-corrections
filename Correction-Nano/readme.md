@@ -16,7 +16,7 @@ Exercice 3
 
 `nano index.html`
 
-#### copeir le code
+#### copier le code
 
 `x-www-browser index.html` ou `firefox html`
 
