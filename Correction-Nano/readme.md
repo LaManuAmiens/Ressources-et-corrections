@@ -26,13 +26,25 @@ Exercice 4
 
 `<title>Hello</title>` 
 
-#### entre 
+#### dans le header
 
 `<head></head>`
 
-#### et 
+#### le résultat donne :
 
-`<body>`
+`<!DOCTYpE html>
+<html>
+        <head>
+                <title>Hello world</title>
+        </head>
+        <body>
+                <h1>Hello world !!!</h1>
+                <p>1</p>
+                <p>2</p>
+                <p>3</p>
+        </body>
+</html>
+`
 
 Exercice 5
 ------
@@ -54,16 +66,16 @@ Exercice 6
 
 `nano index.html`
 
-#### CTRL + Alt Gr + \
+#### CTRL + Alt Gr + \
 
-#### h2
+#### on tape h2
 
-#### p
+#### on tape 'p
 
-#### T
+#### taper T
 
 #### CTRL + X
 
-#### o
+#### taper o
 
-##### y
+#### taper y
