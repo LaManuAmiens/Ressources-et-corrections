@@ -1,6 +1,6 @@
 # Comment envoyer son code sur GitHub ?
 
-## Si c'est le premier commit :
+## Premier commit :
 
 ![alt text](https://github.com/LaManuAmiens/lessons/blob/master/GitHub/GitHub1.png)
 Se rendre sur https://github.com et cliquer en haut à droite sur votre photo de profil
@@ -31,7 +31,7 @@ Indiquer ses identifiants GitHub et voilà c'est push
 
 ----
 
-## Si c'est pour envoyer une modification :
+## Envoyer une modification :
 
 Avec le terminal, se rendre dans le dossier à envoyer et exécuter ce code :
 
@@ -43,7 +43,7 @@ git push
 
 ----
 
-## Si c'est pour ajouter un fichier :
+## Ajouter un fichier :
 
 Avec le terminal, se rendre dans le dossier à envoyer et exécuter ce code :
 
