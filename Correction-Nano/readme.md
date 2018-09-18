@@ -1,7 +1,7 @@
 Exercice 1
 ------
 
-`mkdir ../exerciceNan`
+`mkdir ../exerciceNano`
 
 Exercice 2
 ------
@@ -40,9 +40,6 @@ Exercice 4
         </head>
         <body>
                 <h1>Hello world !!!</h1>
-                <p>1</p>
-                <p>2</p>
-                <p>3</p>
         </body>
 </html>
 ```
