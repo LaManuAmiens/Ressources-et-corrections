@@ -6,7 +6,7 @@
 
 ----
 
-Operating System (OS), système d'exploitation en français, est un ensemble de programme qui permet d'obtenir une interface graphique et la communication entre les diférents périphériques que composent un ordinateur, un téléphone ou une tablette.
+Operating System (OS), système d'exploitation en français, est un ensemble de programme qui permet d'obtenir une interface graphique et la communication entre les différents périphériques que composent un ordinateur, un téléphone ou une tablette.
 
 Exemples d'OS : Windows, MacOS, Linux, iOS, Android...
 
@@ -21,3 +21,4 @@ Nous travaillerons sur Ubuntu, version 18.04 LTS durant la formation. Une mise �
 
 ----
 
+Suite à venir rapidement ;)
