@@ -1,11 +1,11 @@
 Exercice 1
 ------
-'mkdir ../exerciceNano'
+`mkdir ../exerciceNan`
 
 Exercice 2
 ------
-'' cd ../exerciceNano ''
-'' touch index.html ''
+`cd ../exerciceNano
+touch index.html`
 
 Exercice 3
 ------
