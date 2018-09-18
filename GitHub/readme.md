@@ -60,5 +60,7 @@ git push
 Documentation officielle : https://doc.ubuntu-fr.org/git
 
 `git status` : permet de savoir tout ce qui n’a pas encore été commit ou push dans le dossier
+
 `git pull` : permet de mettre à jour le dossier dans lequel on est
+
 `git stash` : permet d'effacer toutes les modifications et de revenir au dernier commit
