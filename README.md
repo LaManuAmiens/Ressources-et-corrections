@@ -23,14 +23,14 @@ Un éditeur de texte est un logiciel permettant l'édition de fichiers textes da
 - Word
 - Bloc-notes
 - Notepad++
-- nano
+- Nano
 - gedit
-- vim 
-- komodo edit
-- atom
+- Vim 
+- Komodo Edit
+- Atom
 - Sublime Text
-- brackets
-- emacs
+- Brackets
+- Emacs
 
 ----
 
