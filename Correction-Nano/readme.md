@@ -15,29 +15,29 @@ Exercice 3
 
 `nano index.html`
 
-## copeir le code
+#### copeir le code
 
 `x-www-browser index.html` ou `firefox html`
 
 Exercice 4
 ------
 
-## ajouter 
+#### ajouter 
 
 `<title>Hello</title>` 
 
-## entre 
+#### entre 
 
 `<head></head>`
 
-## et 
+#### et 
 
 `<body>`
 
 Exercice 5
 ------
 
-## ajouter 
+#### ajouter 
 
 `<h2>1</h2>`
 
@@ -45,7 +45,7 @@ Exercice 5
 
 `<h2>3</h2>` 
 
-## en dessous de 
+#### en dessous de 
 
 `<h1>Hello world !!!</h1>`
 
@@ -54,16 +54,16 @@ Exercice 6
 
 `nano index.html`
 
-## CTRL + Alt Gr + \
+#### CTRL + Alt Gr + \
 
-## h2
+#### h2
 
-## p
+#### p
 
-## T
+#### T
 
-## CTRL + X
+#### CTRL + X
 
-## o
+#### o
 
-### y
+##### y
