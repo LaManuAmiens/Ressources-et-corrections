@@ -67,16 +67,14 @@ Exercice 6
 
 `nano index.html`
 
-#### CTRL + w
+#### CTRL + w
 
-#### taper h2
+#### taper h2
 
-#### taper p
+#### CTRL + r
 
-#### taper T
+#### Entrée
 
-#### CTRL + X
+#### taper h2
 
-#### taper o
-
-#### taper y
+#### taper t
