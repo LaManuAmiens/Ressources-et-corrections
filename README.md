@@ -19,7 +19,7 @@ Nous travaillerons sur Ubuntu, version 18.04 LTS durant la formation. Une mise �
 
 ----
 
-Un éditeur de texte est un logiciel permettant l'édition de fichiers textes dans toutes les extensions possbiles (html, css, js...). Il en existe de nombreux, voici quelques exemples :
+Un éditeur de texte est un programme qui sert à... éditer des textes (c'est-à-dire à les créer et à les modifier). Contrairement à un traitement de texte, il ne sert pas à faire de la mise en forme, la mise en page qu'on peut y faire est seulement une question de lisibilité. Il en existe de nombreux, voici quelques exemples :
 - Word
 - Bloc-notes
 - Notepad++
@@ -32,5 +32,23 @@ Un éditeur de texte est un logiciel permettant l'édition de fichiers textes da
 - Brackets
 - Emacs
 
+(Source : https://www.tuteurs.ens.fr/unix/editeurs/)
+
 ----
 
+Integrated Development Environment (en français « environnement de développement »), est un logiciel qui rassemble des outils permettant de développer d’autres logiciels tels que des applications mobiles, des logiciels pour ordinateur ou consoles de jeux, des sites web, etc. ainsi que de réaliser des librairies ou des frameworks, c’est-à-dire des morceaux de code qui pourront être sauvegardés et réutilisés dans d’autres programmes.
+
+Les outils d’un IDE peuvent être :
+- un éditeur de code intelligent (coloration, autocomplétion, mise en forme) ;
+- un simulateur (logiciel permettant de tester l’exécution de son logiciel) ;
+- un compilateur (qui va transformer le code source rédigé par le développeur en code binaire, composé de 0 et de 1 uniquement) ;
+- un débogueur (fonctionnalité d’aide à la correction de bugs), etc.
+
+Il existe de nombreux IDE. Certains permettent de développer pour un système d’exploitation spécifique, d’autres sont polyvalents. Voici quelques exemples d'IDE :
+- Netbeans
+- Webstram
+- Eclipse
+- Visual Studio
+- Xcode
+
+(Source : https://www.mobizel.com/definition-cest-quoi-un-ide/)
