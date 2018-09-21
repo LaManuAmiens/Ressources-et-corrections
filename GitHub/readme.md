@@ -21,9 +21,9 @@ Avec le terminal, se rendre dans le dossier à envoyer et exécuter ce code :
 
 ```
 git init
-git add "le_fichier_que_vous_envoyez"
+git add le_fichier_que_vous_envoyez
 git commit -m "first commit"
-git remote add origin "le_lien_de_votre_repo_sur_GitHub"
+git remote add origin le_lien_de_votre_repo_sur_GitHub
 git push -u origin master
 ```
 
@@ -36,7 +36,7 @@ Indiquer ses identifiants GitHub et voilà c'est push
 Avec le terminal, se rendre dans le dossier à envoyer et exécuter ce code :
 
 ```
-git add "le_fichier_modifié"
+git add le_fichier_modifié
 git commit -m "commentaire_sur_la_modification"
 git push
 ```
@@ -48,7 +48,7 @@ git push
 Avec le terminal, se rendre dans le dossier à envoyer et exécuter ce code :
 
 ```
-git add "le_fichier_ajouté"
+git add le_fichier_ajouté
 git commit -m "commentaire_sur_l'ajout"
 git push
 ```
@@ -58,8 +58,8 @@ git push
 ## Créer une branche :
 
 ```
-git branch "nom_que_l'on_veut_donner_à_la_branche"
-git checkout "nom_de_la_branche_sur_laquelle_on_veut_aller"
+git branch nom_que_l'on_veut_donner_à_la_branche
+git checkout nom_de_la_branche_crée_à_l'instant
 git add .
 git commit -m "commentaire_sur_la_création_de_la_branche"
 git push
@@ -70,7 +70,7 @@ git push
 ## Changer de branche
 
 ```
-git checkout "nom_de_la_branche_dans_laquelle_on_veut_aller"
+git checkout nom_de_la_branche_dans_laquelle_on_veut_aller
 ```
 
 ----
