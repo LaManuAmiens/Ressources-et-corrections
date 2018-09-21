@@ -1,3 +1,8 @@
+Documentation :
+- https://developer.mozilla.org/fr/docs/Web/HTML
+- https://www.w3schools.com/html/
+
+----
 
 ```
 <!DOCTYPE html> 
