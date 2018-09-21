@@ -63,7 +63,6 @@ git checkout "nom_de_la_branche_sur_laquelle_on_veut_aller"
 git add "le_fichier_modifié"
 git commit -m "commentaire_sur_la modification"
 git push
-
 ```
 
 ----
@@ -72,7 +71,6 @@ git push
 
 ```
 git checkout "nom_de_la_branche_dans_laquelle_on_veut_aller"
-
 ```
 
 ----
