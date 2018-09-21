@@ -60,8 +60,8 @@ git push
 ```
 git branch "nom_que_l'on_veut_donner_à_la_branche"
 git checkout "nom_de_la_branche_sur_laquelle_on_veut_aller"
-git add "le_fichier_modifié"
-git commit -m "commentaire_sur_la modification"
+git add .
+git commit -m "commentaire_sur_la_création_de_la_branche"
 git push
 ```
 
