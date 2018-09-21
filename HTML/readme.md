@@ -19,3 +19,9 @@ Documentation :
 
 <!-- indique au navigateur qu'il s'agit de HTML5 -->
 <!-- donne un titre à la page, visible sur l'onglet du navigateur -->
+
+----
+
+Sources :
+- https://developer.mozilla.org/fr/docs/Web/HTML
+- https://fr.wikipedia.org/wiki/Hypertext_Markup_Language
