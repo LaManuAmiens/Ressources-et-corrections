@@ -40,10 +40,10 @@ Un éditeur de texte est un programme qui sert à... éditer des textes (c'est-�
 
 ### IDE
 
-Integrated Development Environment (en français « environnement de développement »), est un logiciel qui rassemble des outils permettant de développer d’autres logiciels tels que des applications mobiles, des logiciels pour ordinateur ou consoles de jeux, des sites web, etc. ainsi que de réaliser des librairies ou des frameworks, c’est-à-dire des morceaux de code qui pourront être sauvegardés et réutilisés dans d’autres programmes.
+Integrated Development Environment (en français « environnement de développement »), est un logiciel qui rassemble des outils permettant de développer d’autres logiciels tels que des applications mobiles, des logiciels pour ordinateur ou consoles de jeux, des sites web... ainsi que de réaliser des librairies ou des frameworks, c’est-à-dire des morceaux de code qui pourront être sauvegardés et réutilisés dans d’autres programmes.
 
 Les outils d’un IDE peuvent être :
-- un éditeur de code intelligent (coloration, autocomplétion, mise en forme) ;
+- un éditeur de texte intelligent (coloration, autocomplétion, mise en forme) ;
 - un simulateur (logiciel permettant de tester l’exécution de son logiciel) ;
 - un compilateur (qui va transformer le code source rédigé par le développeur en code binaire, composé de 0 et de 1 uniquement) ;
 - un débogueur (fonctionnalité d’aide à la correction de bugs), etc.
