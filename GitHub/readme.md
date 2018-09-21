@@ -67,7 +67,7 @@ git push
 
 ----
 
-## Changer de branche
+## Changer de branche :
 
 ```
 git checkout nom_de_la_branche_dans_laquelle_on_veut_aller
