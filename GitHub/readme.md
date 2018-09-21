@@ -55,6 +55,28 @@ git push
 
 ----
 
+## Créer une branche :
+
+```
+git branch "nom_que_l'on_veut_donner_à_la_branche"
+git checkout "nom_de_la_branche_sur_laquelle_on_veut_aller"
+git add "le_fichier_modifié"
+git commit -m "commentaire_sur_la modification"
+git push
+
+```
+
+----
+
+## Changer de branche
+
+```
+git checkout "nom_de_la_branche_dans_laquelle_on_veut_aller"
+
+```
+
+----
+
 # Autres commandes à retenir :
 
 Documentation officielle : https://doc.ubuntu-fr.org/git
@@ -64,3 +86,5 @@ Documentation officielle : https://doc.ubuntu-fr.org/git
 `git pull` : permet de mettre à jour le dossier dans lequel on est
 
 `git stash` : permet d'effacer toutes les modifications et de revenir au dernier commit
+
+`git branch` : permet de lister les branches existantes du dossier dans lequel on est
