@@ -62,7 +62,7 @@ git branch nom_que_l'on_veut_donner_à_la_branche
 git checkout nom_de_la_branche_crée_à_l'instant
 git add .
 git commit -m "commentaire_sur_la_création_de_la_branche"
-git push
+git push --set-upstream origin nom_de_la_branche_crée_à_l'instant
 ```
 
 ----
