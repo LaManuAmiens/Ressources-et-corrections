@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Exercice 1</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Exercices jQuery - Partie 4 - Exercice 1</h1>
+    <p>Créer une liste avec trois éléments (Pierre, Feuille, Ciseaux). Ajouter un bouton « Shifumi ! ». Lorsque l'on clique sur « Shifumi ! », choisir un élément au hasard (Pierre, Feuille ou Ciseaux). Le comparer à l'élément choisi par le joueur pour voir qui a gagné entre l'humain et la machine.
+      <br><br>Bonus : Ajouter un compteur de victoires et de défaites et afficher le pourcentage de victoire contre l'ordinateur
+    </p>
+    <select class="custom-select" id="player">
+      <option value="pierre">Pierre</option>
+      <option value="feuille">Feuille</option>
+      <option value="ciseaux">Ciseaux</option>
+    </select>
+    <button class="btn btn-primary" id="compare">Shifumi !</button>
+    <p id="result"></p>
+    <p id="victory">Victoires : 0</p>
+    <p id="null">Nul : 0</p>
+    <p id="losses">Défaites : 0</p>
+    <p id="percentVictory">Pourcentage de victoire contre l'ordinateur : 0%</p>
+    <a class="btn btn-light" href="../index.html" role="button">Retour au sommaire</a>
+  </div>
+  <script src="assets/js/jquery-3.2.1.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
