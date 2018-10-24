@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+  <meta charset="utf-8" />
+  <title>Exercice 4</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Exercices AngularJS - Partie 4 - Exercice 4</h1>
+    <p>Faire une page HTML permettant d'afficher la liste des voitures et leur couleur du fichier voiture.json uniquement si la couleur n'est pas verte</p>
+    <div ng-controller="carCtrl">
+      <table cellspacing="2px" cellpadding="2px;" rules="all" style="border:solid 1px black;">
+        <thead>
+          <th>Voiture</th>
+          <th>Couleur</th>
+        </thead>
+        <tr ng-repeat="car in cars" ng-if="car.couleur != 'verte'">
+          <td>
+            {{ car.marque }}
+          </td>
+          <td>
+            {{ car.couleur }}
+          </td>
+        </tr>
+      </table>
+    </div>
+    <a class="btn btn-light" href="../index.html" role="button">Retour au sommaire</a>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
