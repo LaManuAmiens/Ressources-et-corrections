@@ -7,15 +7,15 @@
   <link rel="stylesheet" href="assets/css/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script>
 </head>
-<body ng-controller="studentsCtrl">
+<body>
   <div class="container">
     <h1>Exercices AngularJS - Partie 4 - Exercice 6</h1>
     <p>Faire une page HTML contenant deux paragrahes et deux boutons. Au clic sur le premier uniquement le paragrahe 1 doit être visible. Au clic sur le bouton deux, seulement le paragrahe 2 doit aparaître</p>
     <div>
-      <p ng-show="text1" ng-hide="text1">Bonjour, je suis le premier paragraphe</p>
-      <p ng-show="text2" ng-hide="text2">Bonjour, je suis le second paragraphe</p>
-      <button class="btn btn-primary" ng-click="text1 = false | text2 = true">1er bouton</button>
-      <button class="btn btn-primary" ng-click="text2 = true  | text2 = false">2nd bouton</button>
+      <button type="button" class="btn btn-primary" ng-click="text = false">1er bouton</button>
+      <button type="button" class="btn btn-primary" ng-click="text = true">2nd bouton</button>
+      <p ng-hide="text">Bonjour, je suis le premier paragraphe</p>
+      <p ng-show="text">Bonjour, je suis le second paragraphe</p>
     </div>
     <a class="btn btn-light" href="../index.html" role="button">Retour au sommaire</a>
   </div>
