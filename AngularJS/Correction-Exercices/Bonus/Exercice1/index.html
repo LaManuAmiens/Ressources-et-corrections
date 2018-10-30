@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app>
 <head>
   <meta charset="utf-8" />
   <title>Exercice 1</title>
@@ -11,9 +11,13 @@
   <div class="container">
     <h1>Exercices AngularJS - Bonus - Exercice 1</h1>
     <p>Faire un formulaire de saisie d'adresse e-mail. Si l'adresse comporte le symbole @, alors une div verte apparait. S'il n'est pas là, une div rouge apparaît pour avertir l'utilisateur que sa saisie est incorrecte</p>
-    <div>
-
-    </div>
+    <form name="myForm" class="myForm">
+      <div>
+        <input type="email" name="myInput" ng-model="myInput" required>
+        <span ng-show="myForm.myInput.$valid" class="valid">Mail valide</span>
+        <span ng-show="myForm.myInput.$error.email" class="invalid">Veuillez renseigner une adresse mail correcte</span>
+      </div>
+    </form>
     <a class="btn btn-light" href="../index.html" role="button">Retour au sommaire</a>
   </div>
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
